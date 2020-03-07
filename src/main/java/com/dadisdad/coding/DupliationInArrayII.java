@@ -1,6 +1,7 @@
 package com.dadisdad.coding;
 
 /**
+ * 数组中重复的数字
  * @author 10308
  * @date 2020/3/7
  */
