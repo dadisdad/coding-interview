@@ -3,7 +3,7 @@ package com.dadisdad.coding;
 import java.util.Stack;
 
 /**
- * 用两个栈实现对列
+ * 用两个栈实现队列
  *
  * @author 10308
  * @date 2020/3/8
@@ -16,8 +16,8 @@ public class QueueWithTwoStacks {
         private Stack<Integer> stack2;
 
         public CQueue() {
-            stack1 = new Stack<>();
-            stack2 = new Stack();
+            this.stack1 = new Stack<>();
+            this.stack2 = new Stack();
         }
 
 
